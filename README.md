@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Maharana</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin2068&label=Profile%20views&color=0e75b6&style=flat" alt="sachin2068" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin2068" alt="sachin2068" /></a> </p>
 
-- 🔭 I’m currently working on [APIhub](https://github.com/Sachin2068/apihub.git)
+- 🔭 I’m currently working on [OpenAPI HUB](https://github.com/Sachin2068/apihub.git)
 
 - 🌱 I’m currently learning **WebDev**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **schnmaharana@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sSCkhkFg0yw3MFxNq61gzirsnDGt4uoo/view?usp=sharing](https://drive.google.com/file/d/1sSCkhkFg0yw3MFxNq61gzirsnDGt4uoo/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sSCkhkFg0yw3MFxNq61gzirsnDGt4uoo/view?usp=sharing](https://drive.google.com/file/d/1jDhcVsgBsUsgW1oKpE26_I6uJyr_M0ft/view?usp=drivesdk)
 
 - ⚡ Fun fact **Cinephile**
 
