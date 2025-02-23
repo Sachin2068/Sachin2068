@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin2068" alt="sachin2068" /></a> </p>
 
-- 🔭 I’m currently working on [OpenAPI HUB](https://github.com/Sachin2068/apihub.git)
+- 🔭 I’m currently working on [OpenAPI HUB](https://github.com/Sachin2068/OpenAPI-Hub.git)
 
 - 🌱 I’m currently learning **WebDev**
 
